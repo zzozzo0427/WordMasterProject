@@ -24,7 +24,7 @@ public class WordManager {
                 "7. 파일 저장\n"+
                 "0. 나가기\n"+
                 "********************\n"+
-                "=> 원하는 메뉴는? \n");
+                "=> 원하는 메뉴는?");
 
         return s.nextInt();
     }
@@ -34,7 +34,10 @@ public class WordManager {
         wordCRUD.loadFile();
         while(true){
             int menu = selectMenu();
-            if(menu == 0) break;
+            if(menu == 0) {
+                System.out.println("프로그램이 종료되었습니다.");
+                break;
+            }
             if(menu == 4) {
                 wordCRUD.addItem();
             }
