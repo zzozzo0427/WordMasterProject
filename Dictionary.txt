@@ -1,7 +1,7 @@
 1|electric|전기의, 전기를 생산하는
 2|equipment|장비, 용품
 1|pole|기둥, 장대
-1|formerly|이전에, 예전에
+1|formerly|이전에, 예전에, 전에
 1|transfer|옮기다, 이동하다, 이동, 전송
 2|executive|경영 간부, 임원
 1|assure|안심시키다, 확신시키다
@@ -12,7 +12,6 @@
 1|lone|혼자인, 단독의, 외딴
 1|glance|흘긋 보다, 대강 어보다
 2|conscious|의식하는, 자각하는
-2|overkill|지나침, 과잉
 2|stroll|거닐다, 산책하다
 1|stock|주식, 재고
 2|eye-opener|눈이 휘둥그레질 만한 사건, 놀라운 경험

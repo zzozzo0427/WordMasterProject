@@ -128,7 +128,7 @@ public class WordCRUD implements ICRUD{
         if(answer.equalsIgnoreCase("y")) {
             list.remove((int)idlist.get(id-1));
             //remove라는 함수는 integer type을 받는데, idlist.get(id-1)은 array를 받으므로 casting 필요
-            System.out.println("\n단어가 삭제되었습니다.");
+            System.out.println("\n단어가 삭제되었습니다.\n");
         } else
             System.out.println("취소되었습니다. \n");
     }
